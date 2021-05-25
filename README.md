@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/DuguMingyue/travis-ci-tutorial-java-java.svg?branch=master)](https://travis-ci.com/DuguMingyue/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/DuguMingyue/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.com/DuguMingyue/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/DuguMingyue/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/DuguMingyue/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
